@@ -3,7 +3,7 @@ from collections import Counter
 import pyarrow.parquet as pq
 import jieba
 import torch
-import torch.nn as nndddddddddddddddddddddd
+import torch.nn as nn
 import os
 import zhconv
 
